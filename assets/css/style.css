@@ -16,11 +16,11 @@
   }
   
   
-  h1 {
+  h1, h2 {
     margin-left: 70px;
     color: black;
     letter-spacing: 15px;
-    font-size: 75px;
+    font-size: 60px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
   }
